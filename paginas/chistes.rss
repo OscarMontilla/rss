@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Unas risas con...</title>
+    <link>https://montillarss.000webhostapp.com</link>
+    <description>Noticias divertidas y curiosas</description>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 16 Feb 2023 00:00:00 CET</lastBuildDate>
+  
+    <item>
+      <title>Chiste 1</title>
+      <link>https://montillarss.000webhostapp.com/chistes/chiste1.wav</link>
+      <description>Joaquin cuenta chiste sobre 2 amigos borrachos</description>
+      <pubDate>Tue, 17 Feb 2023 12:00:00 CET</pubDate>
+    </item>
+    <item>
+      <title>Chiste 2</title>
+      <link>https://montillarss.000webhostapp.com/chistes/chiste2.wav</link>
+      <description>Joaquin cuenta chiste casino</description>
+      <pubDate>Tue, 17 Feb 2023 12:00:00 CET</pubDate>
+    </item>
+    <item>
+      <title>Chiste 3</title>
+      <link>https://montillarss.000webhostapp.com/chistes/chiste3.wav</link>
+      <description>Joaquin cuenta chiste discoteca</description>
+      <pubDate>Tue, 17 Feb 2023 13:00:00 CET</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+h1{
+    text-decoration: underline;
+    
+}
+.lado{
+   margin-top: 160px;
+   margin-left: 10px;
+}
+.flex{
+    display: flex;
+}
+
+.img2{
+  width: 670px;
+  height: 460px;
+}
+.lado2{
+     margin-top: 120px;
+     margin-left: 10px;
+     
+}
+.lado3{
+    margin-top: 150px;
+     margin-left: 10px;
+}
+.img3{
+    width: 750px;
+    height: 510px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.titulo{
+    font-size: 100px;
+    text-align: center;
+    color: rgb(134, 5, 5);
+    font-family: 'Irish Grover', cursive;  
+    text-decoration: none;
+}

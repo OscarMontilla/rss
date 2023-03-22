@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Unas risas con...</title>
+    <link>https://montillarss.000webhostapp.com</link>
+    <description>Noticias divertidas y curiosas</description>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 16 Feb 2023 00:00:00 CET</lastBuildDate>
+  
+    <item>
+      <title>Elon Musk espera dejar de ser el jefe de Twitter antes del 2023</title>
+      <link>https://montillarss.000webhostapp.com/paginas/ficha.html</link>
+      <description>El magnate quiere esperar a estabilizar la situacion economica de la 'app' antes de designar un sucesor</description>
+      <pubDate>Tue, 16 Feb 2023 10:00:00 CET</pubDate>
+    </item>
+    <item>
+      <title>Mozilla redisenyara Thunderbird por dentro y por fuera</title>
+      <link>https://montillarss.000webhostapp.com/paginas/ficha2.html</link>
+      <description>El navegador Mozilla quiere cambiar por completo el disenyo del cliente de correos Thunderbird</description>
+      <pubDate>Tue, 16 Feb 2023 11:00:00 CET</pubDate>
+    </item>
+    <item>
+      <title>Asi es como Netflix va a detectar que usas una cuenta compartida</title>
+      <link>https://montillarss.000webhostapp.com/paginas/ficha3.html</link>
+      <description>La plataforma de cine, series y documentales esta decidida a aumentar sus ingresos</description>
+      <pubDate>Tue, 16 Feb 2023 12:00:00 CET</pubDate>
+    </item>
+  </channel>
+</rss>
